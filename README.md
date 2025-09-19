@@ -1,5 +1,5 @@
-pwd → Menampilkan lokasi direktori saat ini.
-/n <img width="382" height="37" alt="pwd" src="https://github.com/user-attachments/assets/ec82feb6-2aa3-4b90-8a4f-61b8d22db4b7" />
+1. pwd → Menampilkan lokasi direktori saat ini./n
+<img width="382" height="37" alt="pwd" src="https://github.com/user-attachments/assets/ec82feb6-2aa3-4b90-8a4f-61b8d22db4b7" />
 
 ls → Menampilkan daftar file & folder.
 
