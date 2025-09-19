@@ -30,89 +30,89 @@
    
 <img width="370" height="17" alt="mkdir SK3A" src="https://github.com/user-attachments/assets/fa19a08b-af2e-407b-a377-6abc6095eee7" />
 
-10. rmdir folder → Menghapus folder kosong.
+9. rmdir folder → Menghapus folder kosong.
 
 <img width="421" height="154" alt="rmdir" src="https://github.com/user-attachments/assets/cbcbc639-127c-4637-ba1c-509a3ccd09d6" />
 
-11. touch file.txt → Membuat file kosong.
+10. touch file.txt → Membuat file kosong.
     
 <img width="423" height="15" alt="touch tugas" src="https://github.com/user-attachments/assets/39bc98db-ca88-4751-bc3a-b6f76aeaca3e" />
 
-rm file.txt → Menghapus file.
+11. rm file.txt → Menghapus file.
 
-mv file.txt filebaru.txt → Mengganti nama file.
+13. mv file.txt filebaru.txt → Mengganti nama file.
 
-cp file.txt filecopy.txt → Menyalin file.
+14. cp file.txt filecopy.txt → Menyalin file.
 
-cat file.txt → Menampilkan isi file.
+15. cat file.txt → Menampilkan isi file.
 
-more file.txt → Membaca file halaman demi halaman.
+16. more file.txt → Membaca file halaman demi halaman.
 
-head file.txt → Menampilkan 10 baris pertama file.
+17. head file.txt → Menampilkan 10 baris pertama file.
 
-tail file.txt → Menampilkan 10 baris terakhir file.
+18. tail file.txt → Menampilkan 10 baris terakhir file.
 
-date → Menampilkan tanggal & waktu.
+19. date → Menampilkan tanggal & waktu.
 
-cal → Menampilkan kalender.
+20. cal → Menampilkan kalender.
 
-whoami → Menampilkan user yang sedang digunakan.
+21. whoami → Menampilkan user yang sedang digunakan.
 
-hostname → Menampilkan nama komputer.
+22. hostname → Menampilkan nama komputer.
 
-uptime → Menampilkan berapa lama komputer menyala.
+23. uptime → Menampilkan berapa lama komputer menyala.
 
-uname → Menampilkan tipe sistem.
+24. uname → Menampilkan tipe sistem.
 
-uname -r → Menampilkan versi kernel Linux.
+25. uname -r → Menampilkan versi kernel Linux.
 
-file file.txt → Menampilkan jenis file.
+26. file file.txt → Menampilkan jenis file.
 
-stat file.txt → Menampilkan detail info file.
+27. stat file.txt → Menampilkan detail info file.
 
-du -h → Menampilkan ukuran file/folder.
+28. du -h → Menampilkan ukuran file/folder.
 
-df -h → Menampilkan sisa ruang penyimpanan.
+29. df -h → Menampilkan sisa ruang penyimpanan.
 
-who → Menampilkan siapa saja yang login.
+30. who → Menampilkan siapa saja yang login.
 
-id → Menampilkan ID user dan grup.
+31. id → Menampilkan ID user dan grup.
 
-groups → Menampilkan grup user saat ini.
+32. groups → Menampilkan grup user saat ini.
 
-history → Melihat riwayat command.
+33. history → Melihat riwayat command.
 
-grep "teks" file.txt → Mencari kata tertentu dalam file.
+34. grep "teks" file.txt → Mencari kata tertentu dalam file.
 
-ping google.com → Mengecek koneksi internet.
+35. ping google.com → Mengecek koneksi internet.
 
-ps → Menampilkan daftar proses.
+36. ps → Menampilkan daftar proses.
 
-ps aux → Menampilkan semua proses.
+37. ps aux → Menampilkan semua proses.
 
-top → Menampilkan proses yang sedang berjalan.
+38. top → Menampilkan proses yang sedang berjalan.
 
-echo "Hello" → Menampilkan teks ke layar.
+39. echo "Hello" → Menampilkan teks ke layar.
 
-history -c → Menghapus riwayat command.
+40. history -c → Menghapus riwayat command.
 
-ls -h → Menampilkan ukuran file dengan format mudah dibaca (KB, MB).
+41. ls -h → Menampilkan ukuran file dengan format mudah dibaca (KB, MB).
 
-nano file.txt → Membuka file dengan text editor sederhana.
+42. nano file.txt → Membuka file dengan text editor sederhana.
 
-ip a → Menampilkan alamat IP pada komputer.
+43. ip a → Menampilkan alamat IP pada komputer.
 
-echo $SHELL → Menampilkan shell yang digunakan.
+44. echo $SHELL → Menampilkan shell yang digunakan.
 
-echo $HOME → Menampilkan direktori home user.
+45. echo $HOME → Menampilkan direktori home user.
 
-lsblk → Menampilkan daftar perangkat penyimpanan.
+46. lsblk → Menampilkan daftar perangkat penyimpanan.
 
-uptime -p → Menampilkan lama komputer berjalan (lebih ringkas).
+47. uptime -p → Menampilkan lama komputer berjalan (lebih ringkas).
 
-ls -R → Menampilkan isi folder beserta sub-folder (rekursif).
+48. ls -R → Menampilkan isi folder beserta sub-folder (rekursif).
 
-uname -m → Menampilkan arsitektur mesin (misalnya x86_64 atau arm).
+49. uname -m → Menampilkan arsitektur mesin (misalnya x86_64 atau arm).
 
 date +%R → Menampilkan jam dan menit saja (format 24 jam).
 
