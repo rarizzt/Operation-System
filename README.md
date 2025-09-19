@@ -1,19 +1,24 @@
 1. pwd → Menampilkan lokasi direktori saat ini./n
-<img width="382" height="37" alt="pwd" src="https://github.com/user-attachments/assets/ec82feb6-2aa3-4b90-8a4f-61b8d22db4b7" />
+<img width="382" height="37" alt="pwd" src="https://github.com/user-attachments/assets/ec82feb6-2aa3-4b90-8a4f-61b8d22db4b7" />/n
 
-ls → Menampilkan daftar file & folder.
+ls → Menampilkan daftar file & folder./n
+<img width="757" height="59" alt="ls" src="https://github.com/user-attachments/assets/8beeb2e9-1c65-4942-9eb4-bc556efde3c6" />/n
 
-ls -a → Menampilkan semua file, termasuk yang tersembunyi.
+ls -a → Menampilkan semua file, termasuk yang tersembunyi./n
+<img width="710" height="162" alt="ls -a" src="https://github.com/user-attachments/assets/9ee6c19d-2ada-4a8f-9b13-78767a3838d3" />/n
 
-ls -l → Menampilkan daftar file dengan detail.
+ls -l → Menampilkan daftar file dengan detail./n
+<img width="511" height="254" alt="ls -l" src="https://github.com/user-attachments/assets/9dc0418c-f26b-4aae-ab0b-f9375eff1e0e" />/n
 
-cd documents → Masuk ke folder Documents.
+cd documents → Masuk ke folder Documents./n
+<img width="395" height="39" alt="cd documents" src="https://github.com/user-attachments/assets/ed29b218-4a7f-482b-abf9-b0f93aa4faab" />/n
 
-cd .. → Kembali ke folder sebelumnya (parent).
+cd .. → Kembali ke folder sebelumnya (parent)./n
+<img width="391" height="97" alt="cd " src="https://github.com/user-attachments/assets/1f5a3492-1bf1-473a-a679-a5964034ff21" />/n
 
-cd ~ → Masuk ke folder home.
+cd ~ → Masuk ke folder home./n
 
-mkdir folder → Membuat folder baru.
+mkdir folder → Membuat folder baru./n
 
 rmdir folder → Menghapus folder kosong.
 
